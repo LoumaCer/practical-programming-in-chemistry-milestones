@@ -10,7 +10,7 @@ The **personal milestones table** outlines key milestones for practical programm
 | 1    | Github Account Created                      | https://github.com/LoumaCer                                                 | 
 | 1    | Github Profile Page                         | https://github.com/LoumaCer/LoumaCer                                    |
 | 1    | Commit and Push Change from Command Line    |https://github.com/LoumaCer/ppchem/commit/1f6b4bc7bc144f821405a58c2009f9cf81a707cd              |
-| 1    | Create a New Branch                         | https://github.com/LoumaCer/`repo-name`/tree/`new-branch-name`            |
+| 1    | Create a New Branch                         | https://github.com/LoumaCer/ppchem/tree/new-branch-name            |
 | 1    | Create a conda environment                  | https://github.com/LoumaCer/`repo-name`/blob/`branch-name`/`env.yml`      |
 | 1    | Fork a Repo                                 | https://github.com/LoumaCer/practical-programming-in-chemistry-milestones |
 | 1    | (Optional) Make a Pull Request              | |
